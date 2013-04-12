@@ -1,0 +1,201 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>arrowtower.png</Source>
+      <Name>arrowtower</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Kristoffer\Desktop\BugGAME\BugGAME\buggggggy\buggggggy\buggggggy\bin\x86\Debug\Content\arrowtower.xnb</Output>
+      <Time>2013-04-10T19:17:48+02:00</Time>
+    </Item>
+    <Item>
+      <Source>bullet.png</Source>
+      <Name>bullet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Kristoffer\Desktop\BugGAME\BugGAME\buggggggy\buggggggy\buggggggy\bin\x86\Debug\Content\bullet.xnb</Output>
+      <Time>2013-04-10T19:17:53+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Character Boy.png</Source>
+      <Name>Character Boy</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Kristoffer\Desktop\BugGAME\BugGAME\buggggggy\buggggggy\buggggggy\bin\x86\Debug\Content\Character Boy.xnb</Output>
+      <Time>2013-04-11T10:17:27.7252103+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Dirt Block.png</Source>
+      <Name>Dirt Block</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Kristoffer\Desktop\BugGAME\BugGAME\buggggggy\buggggggy\buggggggy\bin\x86\Debug\Content\Dirt Block.xnb</Output>
+      <Time>2013-04-10T19:18:04+02:00</Time>
+    </Item>
+    <Item>
+      <Source>enemy.png</Source>
+      <Name>enemy</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Kristoffer\Desktop\BugGAME\BugGAME\buggggggy\buggggggy\buggggggy\bin\x86\Debug\Content\enemy.xnb</Output>
+      <Time>2013-04-10T19:18:15+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Grass Block.png</Source>
+      <Name>Grass Block</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Kristoffer\Desktop\BugGAME\BugGAME\buggggggy\buggggggy\buggggggy\bin\x86\Debug\Content\Grass Block.xnb</Output>
+      <Time>2013-04-10T19:18:24+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Heart.png</Source>
+      <Name>Heart</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Kristoffer\Desktop\BugGAME\BugGAME\buggggggy\buggggggy\buggggggy\bin\x86\Debug\Content\Heart.xnb</Output>
+      <Time>2013-04-10T20:45:10+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemy Bug.png</Source>
+      <Name>Enemy Bug</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Kristoffer\Desktop\BugGAME\BugGAME\buggggggy\buggggggy\buggggggy\bin\x86\Debug\Content\Enemy Bug.xnb</Output>
+      <Time>2013-04-11T10:16:05.0597392+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Gem Orange.png</Source>
+      <Name>Gem Orange</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Kristoffer\Desktop\BugGAME\BugGAME\buggggggy\buggggggy\buggggggy\bin\x86\Debug\Content\Gem Orange.xnb</Output>
+      <Time>2013-04-11T10:19:55.0748061+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Gem Green.png</Source>
+      <Name>Gem Green</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Kristoffer\Desktop\BugGAME\BugGAME\buggggggy\buggggggy\buggggggy\bin\x86\Debug\Content\Gem Green.xnb</Output>
+      <Time>2013-04-11T10:19:27.8242849+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Gem Blue.png</Source>
+      <Name>Gem Blue</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Kristoffer\Desktop\BugGAME\BugGAME\buggggggy\buggggggy\buggggggy\bin\x86\Debug\Content\Gem Blue.xnb</Output>
+      <Time>2013-04-11T10:18:46.4091812+02:00</Time>
+    </Item>
+    <Item>
+      <Source>mouse.png</Source>
+      <Name>mouse</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Kristoffer\Desktop\BugGAME\BugGAME\buggggggy\buggggggy\buggggggy\bin\x86\Debug\Content\mouse.xnb</Output>
+      <Time>2013-04-11T12:13:03.3323695+02:00</Time>
+    </Item>
+    <Item>
+      <Source>riffled-background.jpg</Source>
+      <Name>riffled-background</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Kristoffer\Desktop\BugGAME\BugGAME\buggggggy\buggggggy\buggggggy\bin\x86\Debug\Content\riffled-background.xnb</Output>
+      <Time>2013-04-11T14:48:12.5872991+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Sword.png</Source>
+      <Name>Sword</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Kristoffer\Desktop\BugGAME\BugGAME\buggggggy\buggggggy\buggggggy\bin\x86\Debug\Content\Sword.xnb</Output>
+      <Time>2013-04-11T20:04:16.2734694+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Arial.spritefont</Source>
+      <Name>Arial</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Kristoffer\Desktop\BugGAME\BugGAME\buggggggy\buggggggy\buggggggy\bin\x86\Debug\Content\Arial.xnb</Output>
+      <Time>2013-04-11T17:15:16.7572776+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Music\song1.mp3</Source>
+      <Name>Music\song1</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Kristoffer\Desktop\BugGAME\BugGAME\buggggggy\buggggggy\buggggggy\bin\x86\Debug\Content\Music\song1.xnb</Output>
+      <Extra>C:\Users\Kristoffer\Desktop\BugGAME\BugGAME\buggggggy\buggggggy\buggggggy\bin\x86\Debug\Content\Music\song1.wma</Extra>
+      <Time>2013-04-12T03:30:04.8466743+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Music\song2.mp3</Source>
+      <Name>Music\song2</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Kristoffer\Desktop\BugGAME\BugGAME\buggggggy\buggggggy\buggggggy\bin\x86\Debug\Content\Music\song2.xnb</Output>
+      <Extra>C:\Users\Kristoffer\Desktop\BugGAME\BugGAME\buggggggy\buggggggy\buggggggy\bin\x86\Debug\Content\Music\song2.wma</Extra>
+      <Time>2013-04-12T03:29:20.8381352+02:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Kristoffer\Desktop\BugGAME\BugGAME\buggggggy\buggggggy\buggggggyContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Kristoffer\Desktop\BugGAME\BugGAME\buggggggy\buggggggy\buggggggy\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Kristoffer\Desktop\BugGAME\BugGAME\buggggggy\buggggggy\buggggggyContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Kristoffer\Desktop\BugGAME\BugGAME\buggggggy\buggggggy\buggggggy\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T13:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T13:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2013-02-20T21:39:44.5461503+01:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

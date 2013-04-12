@@ -1,0 +1,130 @@
+c:\users\subhan\documents\visual studio 2010\Projects\buggggggy\buggggggy\buggggggy\bin\x86\Debug\Content\arrowtower.xnb
+c:\users\subhan\documents\visual studio 2010\Projects\buggggggy\buggggggy\buggggggy\bin\x86\Debug\Content\bullet.xnb
+c:\users\subhan\documents\visual studio 2010\Projects\buggggggy\buggggggy\buggggggy\bin\x86\Debug\Content\Character Boy.xnb
+c:\users\subhan\documents\visual studio 2010\Projects\buggggggy\buggggggy\buggggggy\bin\x86\Debug\Content\Dirt Block.xnb
+c:\users\subhan\documents\visual studio 2010\Projects\buggggggy\buggggggy\buggggggy\bin\x86\Debug\Content\enemy.xnb
+c:\users\subhan\documents\visual studio 2010\Projects\buggggggy\buggggggy\buggggggy\bin\x86\Debug\Content\Grass Block.xnb
+c:\users\subhan\documents\visual studio 2010\Projects\buggggggy\buggggggy\buggggggy\bin\x86\Debug\buggggggy.exe
+c:\users\subhan\documents\visual studio 2010\Projects\buggggggy\buggggggy\buggggggy\bin\x86\Debug\buggggggy.pdb
+c:\users\subhan\documents\visual studio 2010\Projects\buggggggy\buggggggy\buggggggy\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\subhan\documents\visual studio 2010\Projects\buggggggy\buggggggy\buggggggy\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\users\subhan\documents\visual studio 2010\Projects\buggggggy\buggggggy\buggggggy\obj\x86\Debug\buggggggy.exe
+c:\users\subhan\documents\visual studio 2010\Projects\buggggggy\buggggggy\buggggggy\obj\x86\Debug\buggggggy.pdb
+c:\users\subhan\documents\visual studio 2010\Projects\buggggggy\buggggggy\buggggggy\bin\x86\Debug\Content\Heart.xnb
+C:\Users\subhan\Documents\Visual Studio 2010\Projects\buggggggy\buggggggy\buggggggy\bin\x86\Debug\Content\Enemy Bug.xnb
+C:\Users\subhan\Documents\Visual Studio 2010\Projects\buggggggy\buggggggy\buggggggy\bin\x86\Debug\Content\Gem Orange.xnb
+C:\Users\subhan\Documents\Visual Studio 2010\Projects\buggggggy\buggggggy\buggggggy\bin\x86\Debug\Content\Gem Green.xnb
+C:\Users\subhan\Documents\Visual Studio 2010\Projects\buggggggy\buggggggy\buggggggy\bin\x86\Debug\Content\Gem Blue.xnb
+C:\Users\subhan-b\Dropbox\buggggggy\buggggggy\buggggggy\bin\x86\Debug\Content\arrowtower.xnb
+C:\Users\subhan-b\Dropbox\buggggggy\buggggggy\buggggggy\bin\x86\Debug\Content\bullet.xnb
+C:\Users\subhan-b\Dropbox\buggggggy\buggggggy\buggggggy\bin\x86\Debug\Content\Character Boy.xnb
+C:\Users\subhan-b\Dropbox\buggggggy\buggggggy\buggggggy\bin\x86\Debug\Content\Dirt Block.xnb
+C:\Users\subhan-b\Dropbox\buggggggy\buggggggy\buggggggy\bin\x86\Debug\Content\enemy.xnb
+C:\Users\subhan-b\Dropbox\buggggggy\buggggggy\buggggggy\bin\x86\Debug\Content\Grass Block.xnb
+C:\Users\subhan-b\Dropbox\buggggggy\buggggggy\buggggggy\bin\x86\Debug\Content\Heart.xnb
+C:\Users\subhan-b\Dropbox\buggggggy\buggggggy\buggggggy\bin\x86\Debug\Content\Enemy Bug.xnb
+C:\Users\subhan-b\Dropbox\buggggggy\buggggggy\buggggggy\bin\x86\Debug\Content\Gem Orange.xnb
+C:\Users\subhan-b\Dropbox\buggggggy\buggggggy\buggggggy\bin\x86\Debug\Content\Gem Green.xnb
+C:\Users\subhan-b\Dropbox\buggggggy\buggggggy\buggggggy\bin\x86\Debug\Content\Gem Blue.xnb
+C:\Users\subhan-b\Dropbox\buggggggy\buggggggy\buggggggy\bin\x86\Debug\buggggggy.exe
+C:\Users\subhan-b\Dropbox\buggggggy\buggggggy\buggggggy\bin\x86\Debug\buggggggy.pdb
+C:\Users\subhan-b\Dropbox\buggggggy\buggggggy\buggggggy\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\subhan-b\Dropbox\buggggggy\buggggggy\buggggggy\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\subhan-b\Dropbox\buggggggy\buggggggy\buggggggy\obj\x86\Debug\buggggggy.exe
+C:\Users\subhan-b\Dropbox\buggggggy\buggggggy\buggggggy\obj\x86\Debug\buggggggy.pdb
+C:\Users\subhan-b\Desktop\buggggggy\buggggggy\buggggggy\bin\x86\Debug\Content\arrowtower.xnb
+C:\Users\subhan-b\Desktop\buggggggy\buggggggy\buggggggy\bin\x86\Debug\Content\bullet.xnb
+C:\Users\subhan-b\Desktop\buggggggy\buggggggy\buggggggy\bin\x86\Debug\Content\Character Boy.xnb
+C:\Users\subhan-b\Desktop\buggggggy\buggggggy\buggggggy\bin\x86\Debug\Content\Dirt Block.xnb
+C:\Users\subhan-b\Desktop\buggggggy\buggggggy\buggggggy\bin\x86\Debug\Content\enemy.xnb
+C:\Users\subhan-b\Desktop\buggggggy\buggggggy\buggggggy\bin\x86\Debug\Content\Grass Block.xnb
+C:\Users\subhan-b\Desktop\buggggggy\buggggggy\buggggggy\bin\x86\Debug\Content\Heart.xnb
+C:\Users\subhan-b\Desktop\buggggggy\buggggggy\buggggggy\bin\x86\Debug\Content\Enemy Bug.xnb
+C:\Users\subhan-b\Desktop\buggggggy\buggggggy\buggggggy\bin\x86\Debug\Content\Gem Orange.xnb
+C:\Users\subhan-b\Desktop\buggggggy\buggggggy\buggggggy\bin\x86\Debug\Content\Gem Green.xnb
+C:\Users\subhan-b\Desktop\buggggggy\buggggggy\buggggggy\bin\x86\Debug\Content\Gem Blue.xnb
+C:\Users\subhan-b\Desktop\buggggggy\buggggggy\buggggggy\bin\x86\Debug\buggggggy.exe
+C:\Users\subhan-b\Desktop\buggggggy\buggggggy\buggggggy\bin\x86\Debug\buggggggy.pdb
+C:\Users\subhan-b\Desktop\buggggggy\buggggggy\buggggggy\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\subhan-b\Desktop\buggggggy\buggggggy\buggggggy\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\subhan-b\Desktop\buggggggy\buggggggy\buggggggy\obj\x86\Debug\buggggggy.exe
+C:\Users\subhan-b\Desktop\buggggggy\buggggggy\buggggggy\obj\x86\Debug\buggggggy.pdb
+C:\Users\subhan-b\Desktop\buggggggy\buggggggy\buggggggy\bin\x86\Debug\Content\mouse.xnb
+C:\Users\subhan-b\Desktop\buggggggy\buggggggy\buggggggy\bin\x86\Debug\Content\riffled-background.xnb
+C:\Users\subhan-b\Desktop\buggggggy\buggggggy\buggggggy\bin\x86\Debug\Content\Arial.xnb
+C:\Users\subhan-b\Desktop\buggggggy\buggggggy\buggggggy\bin\x86\Debug\Content\Sword.xnb
+C:\Users\PålBlomseth\Desktop\game2\buggggggy\buggggggy\buggggggy\bin\x86\Debug\Content\arrowtower.xnb
+C:\Users\PålBlomseth\Desktop\game2\buggggggy\buggggggy\buggggggy\bin\x86\Debug\Content\bullet.xnb
+C:\Users\PålBlomseth\Desktop\game2\buggggggy\buggggggy\buggggggy\bin\x86\Debug\Content\Character Boy.xnb
+C:\Users\PålBlomseth\Desktop\game2\buggggggy\buggggggy\buggggggy\bin\x86\Debug\Content\Dirt Block.xnb
+C:\Users\PålBlomseth\Desktop\game2\buggggggy\buggggggy\buggggggy\bin\x86\Debug\Content\enemy.xnb
+C:\Users\PålBlomseth\Desktop\game2\buggggggy\buggggggy\buggggggy\bin\x86\Debug\Content\Grass Block.xnb
+C:\Users\PålBlomseth\Desktop\game2\buggggggy\buggggggy\buggggggy\bin\x86\Debug\Content\Heart.xnb
+C:\Users\PålBlomseth\Desktop\game2\buggggggy\buggggggy\buggggggy\bin\x86\Debug\Content\Enemy Bug.xnb
+C:\Users\PålBlomseth\Desktop\game2\buggggggy\buggggggy\buggggggy\bin\x86\Debug\Content\Gem Orange.xnb
+C:\Users\PålBlomseth\Desktop\game2\buggggggy\buggggggy\buggggggy\bin\x86\Debug\Content\Gem Green.xnb
+C:\Users\PålBlomseth\Desktop\game2\buggggggy\buggggggy\buggggggy\bin\x86\Debug\Content\Gem Blue.xnb
+C:\Users\PålBlomseth\Desktop\game2\buggggggy\buggggggy\buggggggy\bin\x86\Debug\Content\mouse.xnb
+C:\Users\PålBlomseth\Desktop\game2\buggggggy\buggggggy\buggggggy\bin\x86\Debug\Content\riffled-background.xnb
+C:\Users\PålBlomseth\Desktop\game2\buggggggy\buggggggy\buggggggy\bin\x86\Debug\Content\Sword.xnb
+C:\Users\PålBlomseth\Desktop\game2\buggggggy\buggggggy\buggggggy\bin\x86\Debug\Content\Arial.xnb
+C:\Users\PålBlomseth\Desktop\game2\buggggggy\buggggggy\buggggggy\bin\x86\Debug\buggggggy.exe
+C:\Users\PålBlomseth\Desktop\game2\buggggggy\buggggggy\buggggggy\bin\x86\Debug\buggggggy.pdb
+C:\Users\PålBlomseth\Desktop\game2\buggggggy\buggggggy\buggggggy\obj\x86\Debug\buggggggy.csprojResolveAssemblyReference.cache
+C:\Users\PålBlomseth\Desktop\game2\buggggggy\buggggggy\buggggggy\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\PålBlomseth\Desktop\game2\buggggggy\buggggggy\buggggggy\obj\x86\Debug\buggggggy.exe
+C:\Users\PålBlomseth\Desktop\game2\buggggggy\buggggggy\buggggggy\obj\x86\Debug\buggggggy.pdb
+C:\Users\PålBlomseth\Desktop\game2\buggggggy\buggggggy\buggggggy\bin\x86\Debug\Content\Music\song1.xnb
+C:\Users\PålBlomseth\Desktop\game2\buggggggy\buggggggy\buggggggy\bin\x86\Debug\Content\Music\song2.xnb
+C:\Users\PålBlomseth\Desktop\game2\buggggggy\buggggggy\buggggggy\bin\x86\Debug\Content\Music\song1.wma
+C:\Users\PålBlomseth\Desktop\game2\buggggggy\buggggggy\buggggggy\bin\x86\Debug\Content\Music\song2.wma
+C:\Users\PålBlomseth\Desktop\BugGAME\buggggggy\buggggggy\buggggggy\bin\x86\Debug\Content\arrowtower.xnb
+C:\Users\PålBlomseth\Desktop\BugGAME\buggggggy\buggggggy\buggggggy\bin\x86\Debug\Content\bullet.xnb
+C:\Users\PålBlomseth\Desktop\BugGAME\buggggggy\buggggggy\buggggggy\bin\x86\Debug\Content\Character Boy.xnb
+C:\Users\PålBlomseth\Desktop\BugGAME\buggggggy\buggggggy\buggggggy\bin\x86\Debug\Content\Dirt Block.xnb
+C:\Users\PålBlomseth\Desktop\BugGAME\buggggggy\buggggggy\buggggggy\bin\x86\Debug\Content\enemy.xnb
+C:\Users\PålBlomseth\Desktop\BugGAME\buggggggy\buggggggy\buggggggy\bin\x86\Debug\Content\Grass Block.xnb
+C:\Users\PålBlomseth\Desktop\BugGAME\buggggggy\buggggggy\buggggggy\bin\x86\Debug\Content\Heart.xnb
+C:\Users\PålBlomseth\Desktop\BugGAME\buggggggy\buggggggy\buggggggy\bin\x86\Debug\Content\Enemy Bug.xnb
+C:\Users\PålBlomseth\Desktop\BugGAME\buggggggy\buggggggy\buggggggy\bin\x86\Debug\Content\Gem Orange.xnb
+C:\Users\PålBlomseth\Desktop\BugGAME\buggggggy\buggggggy\buggggggy\bin\x86\Debug\Content\Gem Green.xnb
+C:\Users\PålBlomseth\Desktop\BugGAME\buggggggy\buggggggy\buggggggy\bin\x86\Debug\Content\Gem Blue.xnb
+C:\Users\PålBlomseth\Desktop\BugGAME\buggggggy\buggggggy\buggggggy\bin\x86\Debug\Content\mouse.xnb
+C:\Users\PålBlomseth\Desktop\BugGAME\buggggggy\buggggggy\buggggggy\bin\x86\Debug\Content\riffled-background.xnb
+C:\Users\PålBlomseth\Desktop\BugGAME\buggggggy\buggggggy\buggggggy\bin\x86\Debug\Content\Sword.xnb
+C:\Users\PålBlomseth\Desktop\BugGAME\buggggggy\buggggggy\buggggggy\bin\x86\Debug\Content\Arial.xnb
+C:\Users\PålBlomseth\Desktop\BugGAME\buggggggy\buggggggy\buggggggy\bin\x86\Debug\Content\Music\song1.xnb
+C:\Users\PålBlomseth\Desktop\BugGAME\buggggggy\buggggggy\buggggggy\bin\x86\Debug\Content\Music\song2.xnb
+C:\Users\PålBlomseth\Desktop\BugGAME\buggggggy\buggggggy\buggggggy\bin\x86\Debug\Content\Music\song1.wma
+C:\Users\PålBlomseth\Desktop\BugGAME\buggggggy\buggggggy\buggggggy\bin\x86\Debug\Content\Music\song2.wma
+C:\Users\PålBlomseth\Desktop\BugGAME\buggggggy\buggggggy\buggggggy\bin\x86\Debug\buggggggy.exe
+C:\Users\PålBlomseth\Desktop\BugGAME\buggggggy\buggggggy\buggggggy\bin\x86\Debug\buggggggy.pdb
+C:\Users\PålBlomseth\Desktop\BugGAME\buggggggy\buggggggy\buggggggy\obj\x86\Debug\buggggggy.csprojResolveAssemblyReference.cache
+C:\Users\PålBlomseth\Desktop\BugGAME\buggggggy\buggggggy\buggggggy\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\PålBlomseth\Desktop\BugGAME\buggggggy\buggggggy\buggggggy\obj\x86\Debug\buggggggy.exe
+C:\Users\PålBlomseth\Desktop\BugGAME\buggggggy\buggggggy\buggggggy\obj\x86\Debug\buggggggy.pdb
+C:\Users\Kristoffer\Desktop\BugGAME\BugGAME\buggggggy\buggggggy\buggggggy\bin\x86\Debug\Content\arrowtower.xnb
+C:\Users\Kristoffer\Desktop\BugGAME\BugGAME\buggggggy\buggggggy\buggggggy\bin\x86\Debug\Content\bullet.xnb
+C:\Users\Kristoffer\Desktop\BugGAME\BugGAME\buggggggy\buggggggy\buggggggy\bin\x86\Debug\Content\Character Boy.xnb
+C:\Users\Kristoffer\Desktop\BugGAME\BugGAME\buggggggy\buggggggy\buggggggy\bin\x86\Debug\Content\Dirt Block.xnb
+C:\Users\Kristoffer\Desktop\BugGAME\BugGAME\buggggggy\buggggggy\buggggggy\bin\x86\Debug\Content\enemy.xnb
+C:\Users\Kristoffer\Desktop\BugGAME\BugGAME\buggggggy\buggggggy\buggggggy\bin\x86\Debug\Content\Grass Block.xnb
+C:\Users\Kristoffer\Desktop\BugGAME\BugGAME\buggggggy\buggggggy\buggggggy\bin\x86\Debug\Content\Heart.xnb
+C:\Users\Kristoffer\Desktop\BugGAME\BugGAME\buggggggy\buggggggy\buggggggy\bin\x86\Debug\Content\Enemy Bug.xnb
+C:\Users\Kristoffer\Desktop\BugGAME\BugGAME\buggggggy\buggggggy\buggggggy\bin\x86\Debug\Content\Gem Orange.xnb
+C:\Users\Kristoffer\Desktop\BugGAME\BugGAME\buggggggy\buggggggy\buggggggy\bin\x86\Debug\Content\Gem Green.xnb
+C:\Users\Kristoffer\Desktop\BugGAME\BugGAME\buggggggy\buggggggy\buggggggy\bin\x86\Debug\Content\Gem Blue.xnb
+C:\Users\Kristoffer\Desktop\BugGAME\BugGAME\buggggggy\buggggggy\buggggggy\bin\x86\Debug\Content\mouse.xnb
+C:\Users\Kristoffer\Desktop\BugGAME\BugGAME\buggggggy\buggggggy\buggggggy\bin\x86\Debug\Content\riffled-background.xnb
+C:\Users\Kristoffer\Desktop\BugGAME\BugGAME\buggggggy\buggggggy\buggggggy\bin\x86\Debug\Content\Sword.xnb
+C:\Users\Kristoffer\Desktop\BugGAME\BugGAME\buggggggy\buggggggy\buggggggy\bin\x86\Debug\Content\Arial.xnb
+C:\Users\Kristoffer\Desktop\BugGAME\BugGAME\buggggggy\buggggggy\buggggggy\bin\x86\Debug\Content\Music\song1.xnb
+C:\Users\Kristoffer\Desktop\BugGAME\BugGAME\buggggggy\buggggggy\buggggggy\bin\x86\Debug\Content\Music\song2.xnb
+C:\Users\Kristoffer\Desktop\BugGAME\BugGAME\buggggggy\buggggggy\buggggggy\bin\x86\Debug\Content\Music\song1.wma
+C:\Users\Kristoffer\Desktop\BugGAME\BugGAME\buggggggy\buggggggy\buggggggy\bin\x86\Debug\Content\Music\song2.wma
+C:\Users\Kristoffer\Desktop\BugGAME\BugGAME\buggggggy\buggggggy\buggggggy\bin\x86\Debug\buggggggy.exe
+C:\Users\Kristoffer\Desktop\BugGAME\BugGAME\buggggggy\buggggggy\buggggggy\bin\x86\Debug\buggggggy.pdb
+C:\Users\Kristoffer\Desktop\BugGAME\BugGAME\buggggggy\buggggggy\buggggggy\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Kristoffer\Desktop\BugGAME\BugGAME\buggggggy\buggggggy\buggggggy\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Kristoffer\Desktop\BugGAME\BugGAME\buggggggy\buggggggy\buggggggy\obj\x86\Debug\buggggggy.exe
+C:\Users\Kristoffer\Desktop\BugGAME\BugGAME\buggggggy\buggggggy\buggggggy\obj\x86\Debug\buggggggy.pdb
